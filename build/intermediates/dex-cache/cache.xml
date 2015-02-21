@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/messias/Development/Android SDK/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f57d31238726e8152da0b1a27b4233e5cecc953f.jar" />
+    </item>
+    <item
+        jar="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/pre-dexed/debug/classes-8fe3b635e94eed459bef1601eccf399f5b89dc26.jar" />
+    </item>
+    <item
+        jar="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/pre-dexed/debug/classes-7415906d16b8225194373b96aed55a72dc4837db.jar" />
+    </item>
+    <item
+        jar="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/messias/Development/Workspace/AndroidStudio/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1f0ea86308da75d17f04429d1f20cd54c0e0192e.jar" />
+    </item>
+
+</items>
